@@ -1,0 +1,34 @@
+.List{
+    width:25%;
+}
+
+.filter {
+    width:100%;
+    height:30px;
+    line-height:30px;
+    font-size:18px;
+    outline:none;
+}
+
+ul{
+    margin:0;
+    padding:0;
+    list-style: none;;
+}
+
+li{
+    cursor:pointer;
+    font-size:18px;
+}
+
+.name{
+    float:left;
+}
+
+.tel{
+    float:right;
+}
+
+.clearBoth{
+    clear: both;
+}
